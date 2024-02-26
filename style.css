@@ -1,0 +1,226 @@
+.nav{
+    background: #0C0C0C;
+    display: flex;
+    justify-content: space-evenly   ;
+    height: 30px;
+    padding: 10px;
+}
+.nav-img{
+    padding-left: 200px;
+}
+.nav-item > img{
+    width: 20px;
+    flex-shrink: 0;
+}
+.nav-item > a{
+    text-decoration: none;
+    color: white;
+    padding-top: 10px;
+}
+.nav-item1 > a{
+    text-decoration: none;
+    color: white;
+}
+.navbar{
+    display: flex;
+    background: black;
+    backdrop-filter: blur(7.5px);
+    justify-content: space-evenly;
+}
+.nav-container{
+    display: flex;
+    padding: 20px;
+}
+.nav-link > a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+}
+.nav-link > button{
+    width: 215px;
+    height: 53px;
+    flex-shrink: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px; /* 83.333% */
+    border-radius: 4px;
+    border: 1px solid #06600F;
+    background: rgba(10, 148, 24, 0.75);
+}
+.nav-link:hover{
+    background-color: #69CF17;
+    color: white;
+    font-weight: bold;
+}
+.header{
+    background-image: url(./food-burger-wallpaper-preview\ 1.png);
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.hdr-item{
+    padding-top: 160px;
+}
+.hdr-item > span{
+    color: #69CF17;
+    font-family: Raleway;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.hdr-item > p{
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 133.333% */    
+}
+.card > button{
+    width: 285px;
+    height: 103px;
+    flex-shrink: 0;
+    background: rgba(105, 207, 23, 0.50);
+    backdrop-filter: blur(9px);
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: 25px; /* 50% */
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+}
+.card-bttn{
+    margin-top: 30px;
+}
+.card-bttn > button{
+    width: 255px;
+    height: 51px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: linear-gradient(90deg, #69CF17 0%, #417D11 100%);
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border: none;
+}
+.navbars{
+    width: 1504px;
+    height: 50px;
+    background: #0C0C0C;
+}
+.navbar-item{
+    display: flex;
+    background: #292929;
+    width: 1504px;
+    height: 65px;
+}
+.navbar-item > a{
+    text-decoration: none;
+    color: white;
+    line-height: 24px;
+    font-weight: 400;
+    padding: 15px;
+}
+.boxx{
+    height: 600px;
+    flex-shrink: 0;
+    background: #393636;
+    display: flex;
+    justify-content: space-around;
+}
+.nav-img{
+    width: 300px;
+    padding: 10px;
+    height: 526px;
+    background-color: #0C0C0C;
+    color: white;
+    margin-top: 25px;
+}
+.nav-img > img{
+    width: 300px;
+}
+.nav-div{
+    width: 1503px;
+    height: 50px;
+    background-color: #0C0C0C;
+}
+.navbar-div{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+.navbar-divs{
+    margin: 0 auto; 
+}
+.navbar-divs img{
+    width: 1503px;
+}
+.navbar-link{
+   width: 1503px;
+   height: 300px;
+   background: linear-gradient(180deg, #000, rgba(108, 297,70, 0.9) );
+}
+.navbar-links > button{
+    width: 210px;
+    height: 50px;
+    color: #FFF;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 30px; /* 83.333% */
+    border-radius: 4px;
+    border: 1px solid #06600F;
+    background: rgba(10, 148, 24, 0.75);
+}
+.navbar-links{
+    padding: 30px 230px;
+}
+.raqam{
+    color: #FFF;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 700;
+}
+.raqam img{
+    margin-right: 200px;
+}
+.link{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.link > h5{
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.navlar{
+    width: 1503px;
+    height: 57px;
+    background:  #1A3406;
+    margin-top: -20px;
+}
+
+.text{
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+.text > p{
+    padding: 19px;
+}
